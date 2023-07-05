@@ -1,0 +1,18 @@
+<!-- Spring dependencies -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>5.3.9</version>
+</dependency>
+
+<!-- Hibernate dependencies -->
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-core</artifactId>
+    <version>5.5.3.Final</version>
+</dependency>
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-validator</artifactId>
+    <version>6.2.0.Final</version>
+</dependency>
