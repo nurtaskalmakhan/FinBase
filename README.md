@@ -11,19 +11,6 @@ Java Development Kit (JDK) 8 or above
 Maven build tool
 MySQL or any other compatible database
 
-# Setup
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/financial-analysis-app.git
-Configure the database connection in the application.properties file:
-
-properties
-Copy code
-spring.datasource.url=jdbc:mysql://localhost:3306/financial_analysis_db
-spring.datasource.username=db_username
-spring.datasource.password=db_password
 Build the application using Maven:
 
 bash
